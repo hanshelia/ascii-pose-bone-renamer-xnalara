@@ -37,6 +37,6 @@ Looking for the original *XPS Pose Renamer* (only for `.pose`)? It's still avail
   Choose where renamed files will be saved.
 
 - **Auto-Renamed Filenames**  
-  Output files are saved with updated names like `renamed_filename.ascii` or `renamed_filename.pose` to distinguish them from the originals.
+  Output files are saved with updated names like `filename_renamed.ascii` or `filename_renamed.pose` to distinguish them from the originals.
 
 ---
